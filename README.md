@@ -100,7 +100,7 @@ It handles:
 
 You can view:
 - Prototype images in `/images/`
-- Wiring diagram in `/circuit_diagram.png` (upload optional)
+- Wiring diagram in `/circuit_diagram.png` 
 
 ---
 
