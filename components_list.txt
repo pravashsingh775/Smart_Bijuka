@@ -1,0 +1,22 @@
+Smart Bijuka – DigiKhet Protector
+Component List (BOM) – Final HackOrbit Submission
+
+1. ESP8266 NodeMCU (WiFi Board)          – 1 pc
+2. PIR Motion Sensor (10–20m range)      – 1 pc
+3. DFPlayer Mini MP3 Module              – 1 pc
+4. Speaker (8Ω, 3W)                      – 1 pc
+5. Servo Motors (SG90 or MG90S)          – 2 pcs
+6. DC Motor (for rotation - optional)    – 1 pc
+7. Micro SD Card (for DFPlayer)          – 1 pc
+8. Blynk IoT App (virtual mobile app)    – 1 account
+9. 12V Rechargeable Battery              – 1 pc
+10. Solar Panel (10W–20W)                – 1 pc
+11. Wires (male-female jumper cables)    – 20+ pcs
+12. Breadboard / PCB                     – 1 pc
+13. Waterproof Enclosure Box             – 1 pc
+14. USB Cable for Programming            – 1 pc
+15. Power Switch                         – 1 pc
+16. SD Card Reader (for sound file upload) – 1 pc
+17. Mounting Stand + Scarecrow Structure – As per design
+
+Estimated Total Cost: ₹6500
